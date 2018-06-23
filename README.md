@@ -21,6 +21,7 @@ double setpoint = originalSetpoint;
 double movingAngleOffset = 0.1;
 double input, output;
 
+//adjust these values to fit your own design
 double Kp = 55;   
 double Kd = 3;
 double Ki = 270;
