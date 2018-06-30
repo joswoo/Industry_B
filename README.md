@@ -29,4 +29,4 @@ PID pid(&input, &output, &setpoint, Kp, Ki, Kd, DIRECT);
 ```
 
 ## Project Video Link
-https://youtu.be/iVVoLgYuxLA
+[![Alt text for your video](https://img.youtube.com/vi/iVVoLgYuxLA/0.jpg)](https://www.youtube.com/watch?v=iVVoLgYuxLA)
