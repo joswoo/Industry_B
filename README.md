@@ -31,4 +31,4 @@ PID pid(&input, &output, &setpoint, Kp, Ki, Kd, DIRECT);
 ## Project Video Link
 [![Alt text for your video](https://img.youtube.com/vi/iVVoLgYuxLA/0.jpg)](https://www.youtube.com/watch?v=iVVoLgYuxLA)
 
-[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/iVVoLgYuxLA)
+[![Watch the video](https://raw.youtube.com/vi/iVVoLgYuxLA/0.jpg)](http://youtu.be/iVVoLgYuxLA)
